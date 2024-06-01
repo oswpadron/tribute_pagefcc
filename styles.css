@@ -1,0 +1,39 @@
+head {
+  display: none;
+}
+html {
+  font-size: 20px;
+}
+body {
+  font-family: Helvetica;
+  margin: 1em;
+  background-color: #404040;
+}
+h1 {
+  font-family: Helvetica;
+  color: #8B795E;
+  text-align: center;
+}
+p {
+  color: white;
+}
+h3, h4 {
+  color: white;
+}
+h4 {
+  font-size: 17px;
+  font-family: Sans Serif;
+  margin: 0 35px;
+}
+img {
+  display: block;
+  max-width: 100%;
+  margin: 0 auto;
+}
+li {
+  color: white;
+}
+a {
+  text-decoration: none;
+  color: #8B795E;
+}
